@@ -5,7 +5,7 @@ import cssPrompt from 'vide-plugin-context-css'
 import htmlPrompt from 'vide-plugin-context-html'
 
 //当前支持的frameworks
-const frameworks = ['weixin']
+const frameworks = ['weixin', 'zhifubao']
 
 /*
 * 内部集成的context
